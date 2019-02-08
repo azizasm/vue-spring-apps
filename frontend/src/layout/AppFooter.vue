@@ -24,8 +24,8 @@
             <div class="row align-items-center justify-content-md-between">
                 <div class="col-md-6">
                     <div class="copyright">
-                        &copy; 2018
-                        <a href="https://www.creative-tim.com" target="_blank">Creative Tim</a>.
+                        &copy; 2019
+
                     </div>
                 </div>
 
