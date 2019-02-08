@@ -36,6 +36,16 @@ $ docker build  -t mobileApp .
 $ docker run -it -p 8088:8088 mobileApp
 ```
 
+### Screenshot 
+
+1. Initial screen
+![](docs/1.png)
+
+1. Search option
+![](docs/2.png)
+
+1. List all
+![](docs/3.png)
 
 
 ### Build Logs
