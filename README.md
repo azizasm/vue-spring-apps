@@ -1,5 +1,5 @@
 
-# Sample App - Cardio challenges Mobile Apps using VueJS and Spring
+# Sample App - Cardio Challenge Mobile Apps using VueJS and Spring
 
 
 Implementation  includes following features :
@@ -17,9 +17,9 @@ Implementation  includes following features :
 
 ### Run in local environments 
 ```
-$ git clone https://github.com/azizasm/transaction-report-service.git
+$ git clone https://github.com/azizasm/vue-spring-apps.git
 $ mvn clean package
-$ java -jar target/transaction-report-services-0.0.1-SNAPSHOT.jar
+$ java -jar target/vue-spring-apps-0.0.1-SNAPSHOT.jar
 ```
 
 Open http://localhost:8088/ 
